@@ -1,0 +1,6 @@
+flask
+requests
+apscheduler
+duckduckgo_search
+numpy
+numba

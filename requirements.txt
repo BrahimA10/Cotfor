@@ -1,6 +1,0 @@
-flask
-requests
-apscheduler
-duckduckgo-search
-python-dotenv
-gunicorn
